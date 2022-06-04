@@ -1,1 +1,2 @@
 # CNNs-For-DNA-Sequence-Analysis
+This is the code from my time at Cold Spring Harbor Labratories working in the Koo lab. This repository contains the code for CNNs to evaluate DNA sequence motifs and is uploaded in the form of iPython notebooks. The first file contains all possible ways to run the model (end-to-end vs modularized) and the second file runs just the end-to-end model on a trucated dataset of in-vivo data.
